@@ -166,7 +166,7 @@ def build_homepage(articles):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta name="msvalidate.01" content="0C930A4ADBB0E8FA189A9C17547982BF" />
 <title>H&R Block Knowledge Base - All Articles | Introduction News</title>
 
 <meta name="description"
